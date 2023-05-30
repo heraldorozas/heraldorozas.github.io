@@ -1,0 +1,425 @@
+{
+  "search_metadata": {
+    "id": "647011ac9b6472d07559b792",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0238a04d3b024bba/647011ac9b6472d07559b792.json",
+    "created_at": "2023-05-26 01:55:56 UTC",
+    "processed_at": "2023-05-26 01:55:56 UTC",
+    "google_scholar_author_url": "https://scholar.google.com/citations?user=CBgfQEUAAAAJ&hl=en",
+    "raw_html_file": "https://serpapi.com/searches/0238a04d3b024bba/647011ac9b6472d07559b792.html",
+    "total_time_taken": 0.22
+  },
+  "search_parameters": {
+    "engine": "google_scholar_author",
+    "author_id": "CBgfQEUAAAAJ",
+    "hl": "en"
+  },
+  "author": {
+    "name": "Heraldo Rozas",
+    "affiliations": "PhD Student, ISyE at Georgia Institute of Technology",
+    "email": "Verified email at gatech.edu",
+    "interests": [
+      {
+        "title": "Prognosis and Health Management",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:prognosis_and_health_management",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Aprognosis_and_health_management"
+      },
+      {
+        "title": "Lithium- Ion Batteries",
+        "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:lithium_ion_batteries",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Alithium_ion_batteries"
+      }
+    ],
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=CBgfQEUAAAAJ&citpid=13"
+  },
+  "articles": [
+    {
+      "title": "Modelling the degradation process of lithium-ion batteries when operating at erratic state-of-charge swing ranges",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:u5HHmVD_uO8C",
+      "citation_id": "CBgfQEUAAAAJ:u5HHmVD_uO8C",
+      "authors": "A Pérez, V Quintero, H Rozas, F Jaramillo, R Moreno, M Orchard",
+      "publication": "2017 4th international conference on control, decision and information …, 2017",
+      "cited_by": {
+        "value": 28,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5970161266699098438",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5970161266699098438&engine=google_scholar&hl=en",
+        "cites_id": "5970161266699098438"
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Characterization of the degradation process of lithium-ion batteries when discharged at different current rates",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:kNdYIx-mwKoC",
+      "citation_id": "CBgfQEUAAAAJ:kNdYIx-mwKoC",
+      "authors": "A Perez, V Quintero, F Jaramillo, H Rozas, D Jimenez, M Orchard, ...",
+      "publication": "Journal of Systems and Control Engineering, 2018",
+      "journal": "1",
+      "cited_by": {
+        "value": 24,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5293105849918891012",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5293105849918891012&engine=google_scholar&hl=en",
+        "cites_id": "5293105849918891012"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Particle-filtering-based prognostics for the state of maximum power available in lithium-ion batteries at electromobility applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:ufrVoPGSRksC",
+      "citation_id": "CBgfQEUAAAAJ:ufrVoPGSRksC",
+      "authors": "C Díaz, V Quintero, A Pérez, F Jaramillo, C Burgos-Mellado, H Rozas, ...",
+      "publication": "IEEE Transactions on Vehicular Technology 69 (7), 7187-7200, 2020",
+      "journal": "1",
+      "cited_by": {
+        "value": 19,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5202358365863210876",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5202358365863210876&engine=google_scholar&hl=en",
+        "cites_id": "5202358365863210876"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "A method for the reduction of the computational cost associated with the implementation of particle-filter-based failure prognostic algorithms",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:eQOLeE2rZwMC",
+      "citation_id": "CBgfQEUAAAAJ:eQOLeE2rZwMC",
+      "authors": "H Rozas, F Jaramillo, A Perez, D Jimenez, ME Orchard, K Medjaher",
+      "publication": "Mechanical Systems and Signal Processing 135, 106421, 2020",
+      "journal": "1",
+      "cited_by": {
+        "value": 17,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12784846990191903107",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12784846990191903107&engine=google_scholar&hl=en",
+        "cites_id": "12784846990191903107"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Guidelines for the characterization of the internal impedance of lithium-ion batteries in PHM algorithms",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:2osOgNQ5qMEC",
+      "citation_id": "CBgfQEUAAAAJ:2osOgNQ5qMEC",
+      "authors": "A Pérez, M Benavides, H Rozas, S Seria, M Orchard",
+      "publication": "International Journal of Prognostics and Health Management 9 (3), 2018",
+      "journal": "1",
+      "cited_by": {
+        "value": 11,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=789916266320847846",
+        "serpapi_link": "https://serpapi.com/search.json?cites=789916266320847846&engine=google_scholar&hl=en",
+        "cites_id": "789916266320847846"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Lithium-ion battery pack arrays for lifespan enhancement",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:zYLM7Y9cAGgC",
+      "citation_id": "CBgfQEUAAAAJ:zYLM7Y9cAGgC",
+      "authors": "A Perez, V Quintero, H Rozas, D Jimenez, F Jaramillo, M Orchard",
+      "publication": "2017 CHILEAN Conference on Electrical, Electronics Engineering, Information , 2017",
+      "cited_by": {
+        "value": 9,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3592887353777023814",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3592887353777023814&engine=google_scholar&hl=en",
+        "cites_id": "3592887353777023814"
+      },
+      "year": "2017"
+    },
+    {
+      "title": "Solving in real-time the dynamic and stochastic shortest path problem for electric vehicles by a prognostic decision making strategy",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:hqOjcs7Dif8C",
+      "citation_id": "CBgfQEUAAAAJ:hqOjcs7Dif8C",
+      "authors": "H Rozas, D Muñoz-Carpintero, D Saéz, ME Orchard",
+      "publication": "Expert Systems with Applications 184, 115489, 2021",
+      "journal": "1",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13910354089741019165",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13910354089741019165&engine=google_scholar&hl=en",
+        "cites_id": "13910354089741019165"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "Lithium-ion battery State-of-Latent-Energy (SoLE): A fresh new look to the problem of energy autonomy prognostics in storage systems",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:UebtZRa9Y70C",
+      "citation_id": "CBgfQEUAAAAJ:UebtZRa9Y70C",
+      "authors": "H Rozas, D Troncoso-Kurtovic, CP Ley, ME Orchard",
+      "publication": "Journal of Energy Storage 40, 102735, 2021",
+      "journal": "1",
+      "cited_by": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16564470669141847398",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16564470669141847398&engine=google_scholar&hl=en",
+        "cites_id": "16564470669141847398"
+      },
+      "year": "2021"
+    },
+    {
+      "title": "An evolutionary algorithm for the electric vehicle routing problem with battery degradation and capacitated charging stations",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:roLk4NBRz8UC",
+      "citation_id": "CBgfQEUAAAAJ:roLk4NBRz8UC",
+      "authors": "JP Futalef, D Munoz-Carpintero, H Rozas, M Orchard",
+      "publication": "Annual Conference of the PHM Society 12 (1), 9-9, 2020",
+      "cited_by": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12870848265785264061",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12870848265785264061&engine=google_scholar&hl=en",
+        "cites_id": "12870848265785264061"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Harvest stage recognition and potential fruit damage indicator for berries based on hidden Markov models and the Viterbi algorithm",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:W7OEmFMy1HYC",
+      "citation_id": "CBgfQEUAAAAJ:W7OEmFMy1HYC",
+      "authors": "M Orchard, C Muñoz-Poblete, JI Huircan, P Galeas, H Rozas",
+      "publication": "Sensors 19 (20), 4421, 2019",
+      "journal": "1",
+      "cited_by": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11080045684948550768",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11080045684948550768&engine=google_scholar&hl=en",
+        "cites_id": "11080045684948550768"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "Residual-based scheme for detection and characterization of faults in lithium-ion batteries",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:IjCSPb-OGe4C",
+      "citation_id": "CBgfQEUAAAAJ:IjCSPb-OGe4C",
+      "authors": "H Rozas, RM Claveria, ME Orchard, K Medjaher",
+      "publication": "IFAC-PapersOnLine 51 (24), 200-207, 2018",
+      "cited_by": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8556527323996021332",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8556527323996021332&engine=google_scholar&hl=en",
+        "cites_id": "8556527323996021332"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "An online decision-making strategy for routing of electric vehicle fleets",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:0EnyYjriUFMC",
+      "citation_id": "CBgfQEUAAAAJ:0EnyYjriUFMC",
+      "authors": "JP Futalef, D Muñoz-Carpintero, H Rozas, ME Orchard",
+      "publication": "Information Sciences 625, 715-737, 2023",
+      "journal": "1",
+      "cited_by": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8033466323557047234",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8033466323557047234&engine=google_scholar&hl=en",
+        "cites_id": "8033466323557047234"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "Unifying Criteria for Calculating the Levelized Cost of Driving in Electro-Mobility Applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:8k81kl-MbHgC",
+      "citation_id": "CBgfQEUAAAAJ:8k81kl-MbHgC",
+      "authors": "D Arias-Cazco, H Rozas, D Jimenez, ME Orchard, C Estevez",
+      "publication": "World Electric Vehicle Journal 13 (7), 119, 2022",
+      "journal": "1",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4709273146204291598",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4709273146204291598&engine=google_scholar&hl=en",
+        "cites_id": "4709273146204291598"
+      },
+      "year": "2022"
+    },
+    {
+      "title": "A simulation engine for the characterization of capacity degradation processes in lithium-ion batteries undergoing heterogeneous operating conditions",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:YsMSGLbcyi4C",
+      "citation_id": "CBgfQEUAAAAJ:YsMSGLbcyi4C",
+      "authors": "A Perez, H Rozas, F Jaramillo, V Quintero, M Orchard",
+      "publication": "Annual Conference of the PHM Society 11 (1), 2019",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18391304515526214284",
+        "serpapi_link": "https://serpapi.com/search.json?cites=18391304515526214284&engine=google_scholar&hl=en",
+        "cites_id": "18391304515526214284"
+      },
+      "year": "2019"
+    },
+    {
+      "title": "An approach to Prognosis-Decision-Making for route calculation of an electric vehicle considering stochastic traffic information",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:UeHWp8X0CEIC",
+      "citation_id": "CBgfQEUAAAAJ:UeHWp8X0CEIC",
+      "authors": "H Rozas, D Munoz-Carpintero, A Perez, K Medjaher, M Orchard",
+      "publication": "Fourth european conference of the prognostics and health management society, 2018",
+      "cited_by": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8198609828181981223",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8198609828181981223&engine=google_scholar&hl=en",
+        "cites_id": "8198609828181981223"
+      },
+      "year": "2018"
+    },
+    {
+      "title": "Comparison of different models of future operating condition in Particle-Filter-based Prognostic Algorithms",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:Se3iqnhoufwC",
+      "citation_id": "CBgfQEUAAAAJ:Se3iqnhoufwC",
+      "authors": "H Rozas, F Tamssaouet, F Jaramillo, KTP Nguyen, K Medjaher, ...",
+      "publication": "IFAC-PapersOnLine 53 (2), 10336-10341, 2020",
+      "cited_by": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17835943789925711998",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17835943789925711998&engine=google_scholar&hl=en",
+        "cites_id": "17835943789925711998"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "A stochastic programming model for jointly optimizing maintenance and spare parts inventory for IoT applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:MXK_kJrjxJIC",
+      "citation_id": "CBgfQEUAAAAJ:MXK_kJrjxJIC",
+      "authors": "J Shi, H Rozas, M Yildirim, N Gebraeel",
+      "publication": "IISE Transactions 55 (4), 419-431, 2023",
+      "journal": "1",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2023"
+    },
+    {
+      "title": "An Integrated Risk-Based Strategy for Real-Time Decision Making and Mission Reconfiguration in Unmanned Aerial Vehicles",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:_FxGoFyzp5QC",
+      "citation_id": "CBgfQEUAAAAJ:_FxGoFyzp5QC",
+      "authors": "J Fabry, I Carvajal, H Rozas, M Orchard, F Tamssaouet, KTP Nguyen, ...",
+      "publication": "PHM Society European Conference 5 (1), 9-9, 2020",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Particle-filtering-based prognostics for the state of maximum power available in lithium-ion batteries at electromobility applications",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:LkGwnXOMwfcC",
+      "citation_id": "CBgfQEUAAAAJ:LkGwnXOMwfcC",
+      "authors": "C Díaz Turra, V Quintero, A Pérez, F Jaramillo Montoya, ...",
+      "publication": "(IEEE) Institute of Electrical and Electronics Engineers, 2020",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2020"
+    },
+    {
+      "title": "Characterization of the degradation process of lithium-ion batteries when discharged at different current rates",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:Y0pCki6q_DkC",
+      "citation_id": "CBgfQEUAAAAJ:Y0pCki6q_DkC",
+      "authors": "V L Quintero, A Perez, F Jaramillo, H Rozas, D Jimenez, M Orchard, ...",
+      "cited_by": {
+        "value": null,
+        "link": "https://scholar.google.com"
+      },
+      "year": "2018"
+    }
+  ],
+  "cited_by": {
+    "table": [
+      {
+        "citations": {
+          "all": 151,
+          "since_2018": 145
+        }
+      },
+      {
+        "h_index": {
+          "all": 8,
+          "since_2018": 7
+        }
+      },
+      {
+        "i10_index": {
+          "all": 5,
+          "since_2018": 5
+        }
+      }
+    ],
+    "graph": [
+      {
+        "year": 2017,
+        "citations": 1
+      },
+      {
+        "year": 2018,
+        "citations": 12
+      },
+      {
+        "year": 2019,
+        "citations": 16
+      },
+      {
+        "year": 2020,
+        "citations": 13
+      },
+      {
+        "year": 2021,
+        "citations": 39
+      },
+      {
+        "year": 2022,
+        "citations": 38
+      },
+      {
+        "year": 2023,
+        "citations": 26
+      }
+    ]
+  },
+  "public_access": {
+    "link": "https://scholar.google.com/citations?view_op=list_mandates&hl=en&user=CBgfQEUAAAAJ",
+    "available": 1,
+    "not_available": 0
+  },
+  "co_authors": [
+    {
+      "name": "Marcos Orchard",
+      "link": "https://scholar.google.com/citations?user=1SHHThYAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=1SHHThYAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "1SHHThYAAAAJ",
+      "affiliations": "University of Chile",
+      "email": "Verified email at ing.uchile.cl",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=1SHHThYAAAAJ&citpid=2"
+    },
+    {
+      "name": "Kamal Medjaher",
+      "link": "https://scholar.google.com/citations?user=xzFZ_AQAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=xzFZ_AQAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "xzFZ_AQAAAAJ",
+      "affiliations": "Full Professor, ENIT Tarbes, Université Fédérale Toulouse Midi-Pyrénées",
+      "email": "Verified email at enit.fr",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=xzFZ_AQAAAAJ&citpid=10"
+    },
+    {
+      "name": "Rodrigo Moreno",
+      "link": "https://scholar.google.com/citations?user=89X-iRwAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=89X-iRwAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "89X-iRwAAAAJ",
+      "affiliations": "Universidad de Chile + Imperial College",
+      "email": "Verified email at ing.uchile.cl",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=89X-iRwAAAAJ&citpid=7"
+    },
+    {
+      "name": "Nagi Gebraeel",
+      "link": "https://scholar.google.com/citations?user=hL8pnrMAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=hL8pnrMAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "hL8pnrMAAAAJ",
+      "affiliations": "Georgia Institute of Technology",
+      "email": "Verified email at gatech.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=hL8pnrMAAAAJ&citpid=2"
+    },
+    {
+      "name": "Murat Yildirim",
+      "link": "https://scholar.google.com/citations?user=rF6Q-egAAAAJ&hl=en",
+      "serpapi_link": "https://serpapi.com/search.json?author_id=rF6Q-egAAAAJ&engine=google_scholar_author&hl=en",
+      "author_id": "rF6Q-egAAAAJ",
+      "affiliations": "Wayne State University",
+      "email": "Verified email at wayne.edu",
+      "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=small_photo&user=rF6Q-egAAAAJ&citpid=2"
+    }
+  ],
+  "serpapi_pagination": {
+    "next": "https://serpapi.com/search.json?author_id=CBgfQEUAAAAJ&engine=google_scholar_author&hl=en&start=20"
+  }
+}
