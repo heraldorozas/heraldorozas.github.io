@@ -4,13 +4,13 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
-    <link href="../../dist/output.css" rel="stylesheet" />
+    <link href="./dist/output.css" rel="stylesheet" />
   </head>
   <body>
     <!--navbar-->
-    <nav class="flex items-center justify-between flex-wrap bg-sky-800 p-6">
+    <nav class="flex items-center justify-between flex-wrap bg-sky-800 p-6 sticky top-0">
       <div class="flex items-center flex-shrink-0 text-white mr-6">
-        <span class="font-semibold text-xl tracking-tight">Heraldo Rozas</span>
+        <span class="font-semibold text-2xl tracking-tight"><a href="./index.html">Heraldo Rozas</a></span>
       </div>
       <div class="block lg:hidden">
         <button class="flex items-center px-3 py-2 border rounded text-sky-200 border-sky-400 hover:text-white hover:border-white">
@@ -18,22 +18,22 @@
         </button>
       </div>
       <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
-        <div class="text-sm lg:flex-grow">
-          <a href="../../index.html" class="block mt-4 lg:inline-block lg:mt-0 text-sky-200 hover:text-white mr-4">
+        <div class="text-base  lg:flex-grow">
+          <a href="/" class="block mt-4 lg:inline-block lg:mt-0 text-sky-200 hover:text-white mr-4">
             Home
           </a>
           <a href="./research.html" class="block mt-4 lg:inline-block lg:mt-0 text-sky-200 hover:text-white mr-4">
             Research
           </a>
-          <a href="./" class="block mt-4 lg:inline-block lg:mt-0 text-sky-200 hover:text-white">
+          <a href="./publications.html" class="block mt-4 lg:inline-block lg:mt-0 text-sky-200 hover:text-white">
             Publications
           </a>
         </div>
       </div>
     </nav>
     <!--main-->
-    <main class="container mx-auto my-5 p-5">
-        <h2 class="text-2xl font-bold mb-4">Publications</h2>
+    <main class="container mx-auto my-2 p-5">
+      <h2 class="text-2xl font-bold mt-2 mb-4">Publications</h2>
         <div>
             <h2 class="text-lg font-bold mb-1">Journal Publications</h2>
             <ul class="list-decimal list-inside ml-2 mb-3 text-sm " id="listJournals">
@@ -50,9 +50,12 @@
     </main>
     
     
-    
+    <footer class=" z-20 w-full p-4 bg-white border-t border-gray-200 text-center md:p-6 dark:bg-gray-800 dark:border-gray-600">
+      <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 Heraldo Rozas. All Rights Reserved.
+      </span>
+    </footer>
     
     
   </body>
-  <script src="./../javascript/publ.js"></script>
+  <script src="./src/javascript/publ.js"></script>
 </html>

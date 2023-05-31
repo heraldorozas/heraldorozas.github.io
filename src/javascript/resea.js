@@ -1,5 +1,5 @@
 async function getData(){
-    let resp=await fetch("../data/research.json")
+    let resp=await fetch("./src/data/research.json")
     let data= await resp.json()
 
     return data
@@ -13,10 +13,10 @@ async function write(){
 
     areas.forEach((area) => {
         const cardDiv = document.createElement('div');
-        cardDiv.className = 'card w-full shadow-xl p-3 rounded-xl border-l-sky-900';
+        cardDiv.className = 'card w-full shadow-[rgba(0,_0,_0,_0.24)_0px_3px_8px] p-3 rounded-xl border-l-sky-900';
 
         const gridDiv = document.createElement('div');
-        gridDiv.className = 'grid grid-cols-3 gap-4';
+        gridDiv.className = 'grid lg:grid-cols-3 grid-cols-1 gap-4 ';
 
         const col1Div = document.createElement('div');
         col1Div.className = 'col-span-1';
@@ -33,7 +33,7 @@ async function write(){
         title.className = 'card-title mb-2 text-xl font-medium leading-tight text-sky-900';
         title.textContent = area.title;
         col2Div.appendChild(title);
-
+        
 
         const text = document.createElement('p');
         text.className = 'card-text mb-4 text-base text-gray-600 text-justify';

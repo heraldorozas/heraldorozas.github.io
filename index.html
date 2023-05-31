@@ -6,11 +6,11 @@
     <meta http-equiv="Permissions-Policy" content="interest-cohort=()">
     <link href="./dist/output.css" rel="stylesheet" />
   </head>
-  <body>
+  <body class="flex flex-col min-h-screen">
     <!--navbar-->
-    <nav class="flex items-center justify-between flex-wrap bg-sky-800 p-6">
+    <nav class="flex items-center justify-between flex-wrap bg-sky-800 p-6 sticky top-0">
       <div class="flex items-center flex-shrink-0 text-white mr-6">
-        <span class="font-semibold text-xl tracking-tight">Heraldo Rozas</span>
+        <span class="font-semibold text-2xl tracking-tight"><a href="./index.html">Heraldo Rozas</a></span>
       </div>
       <div class="block lg:hidden">
         <button class="flex items-center px-3 py-2 border rounded text-sky-200 border-sky-400 hover:text-white hover:border-white">
@@ -18,33 +18,35 @@
         </button>
       </div>
       <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
-        <div class="text-sm lg:flex-grow">
+        <div class="text-base  lg:flex-grow">
           <a href="/" class="block mt-4 lg:inline-block lg:mt-0 text-sky-200 hover:text-white mr-4">
             Home
           </a>
-          <a href="./src/pages/research.html" class="block mt-4 lg:inline-block lg:mt-0 text-sky-200 hover:text-white mr-4">
+          <a href="./research.html" class="block mt-4 lg:inline-block lg:mt-0 text-sky-200 hover:text-white mr-4">
             Research
           </a>
-          <a href="./src/pages/publications.html" class="block mt-4 lg:inline-block lg:mt-0 text-sky-200 hover:text-white">
+          <a href="./publications.html" class="block mt-4 lg:inline-block lg:mt-0 text-sky-200 hover:text-white">
             Publications
           </a>
         </div>
       </div>
     </nav>
     <!--main-->
-    <main class="container mx-auto my-5 p-5">
+    <main class="container mx-auto my-5 p-5 flex-grow">
       <div class="grid lg:grid-cols-3 gap-4 grid-cols-1">
         <div class="text-center" >
           <div class="flex justify-center ">
-            <img src="./src/img/perfil.jpg" alt="" width="300px" class="mx-auto">
+            <img src="./src/img/perfil.jpg" alt="" width="300px" class="mx-auto rounded-lg">
           </div>
           <div class="">
-            <h1 class="text-xl">Heraldo Rozas Ovando</h1>
+            <h1 class="text-xl ">Heraldo Rozas Ovando</h1>
             <p>Ph.D. Candidate Industrial Engineering </p>
-            <p class="text-sky-900"><a href="https://www.isye.gatech.edu/users/heraldo-rozas" target=”_blank”>Georgia Institute of Technology</a></p>
+            <p class="text-sky-900 mb-2"><a href="https://www.isye.gatech.edu/users/heraldo-rozas" target=”_blank”>Georgia Institute of Technology</a></p>
+            
             <p class="flex justify-center mt-3">
               <a href="https://www.linkedin.com/in/heraldo-rozas-85b559169" target=”_blank” ><img class="mr-3" src="./src/img/linkedin.png" width="36px" ></a>
               <a href="https://scholar.google.cl/citations?user=CBgfQEUAAAAJ&hl=es" target=”_blank” ><img class="mr-3"src="./src/img/icon-google.png" width="36px"></a>
+              <a href="mailto:heraldo.rozas@gatech.edu" target=”_blank”><img class="mr-3"src="./src/img/sobre.png" width="36px"></a>
               <a href="./src/files/CV.pdf" target=”_blank”><img class="mr-3"src="./src/img/curriculum-vitae (1).png" width="36px"></a>
             </p>
           </div>
@@ -61,6 +63,7 @@
             other IoT devices for the joint optimization of condition-based
             maintenance schedules and spare parts provisioning.
           </p>
+          <p></p>
           <div class="grid grid-cols-1 lg:grid-cols-2 gap-2">
             <div>
               <h2 class="text-xl font-bold mt-10">Education</h2>
@@ -81,10 +84,11 @@
             </div>
             <div>
               <h2 class="text-xl font-bold mt-10">Interests</h2>
-              <ul class="list-disc list-inside mt-2 ml-3" >
-                <li>Process Optimization</li>
-                <li>Maitenance Ccheduling</li>
-                <li>Quality Monitoring</li>
+              <ul class="list-disc list-outside mt-2 ml-3" >
+                <li>Condition-based maintenance</li>
+                <li>Data-driven joint optimization of maintenance and spare provisioning</li>
+                <li>Applied works using Stochastic Programming and Distributionally Robust Optimization</li>
+                <li>Fault diagnostic and failure prognostics algorithms</li>
               </ul>
             </div>
 
@@ -93,6 +97,11 @@
         </div>
       </div>
     </main>
+    
+<footer class=" z-20 w-full p-4 bg-white border-t border-gray-200 text-center md:p-6 dark:bg-gray-800 dark:border-gray-600">
+  <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 Heraldo Rozas. All Rights Reserved.
+  </span>
+</footer>
 
   </body>
 </html>

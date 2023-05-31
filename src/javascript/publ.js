@@ -1,5 +1,5 @@
 async function getData(){
-    let resp=await fetch("../data/author.json")
+    let resp=await fetch("./src/data/author.json")
     let data= await resp.json()
 
     data.articles.sort((a,b)=>{return b.year-a.year})
