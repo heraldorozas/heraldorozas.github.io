@@ -1,0 +1,18 @@
+{
+    "areas": [
+        {
+            "title": "Condition-based maintenance with inaccurate prediction results",
+            "content": "Operations and Maintenance (O&M) expenses account for a significant portion of the operating costs in industries that utilize industrial components. Condition-based maintenance (CBM) strategies, incorporating predictive analytics into maintenance optimization, have shown effectiveness in reducing O&M costs associated with industrial component management. Existing CBM strategies for industrial components often rely on the assumption that predictive algorithms accurately predict the remaining lifetime distribution (RLD), allowing for the direct implementation of stochastic programming or simulation-based optimization methods. However, estimated RLDs can be inaccurate due to factors such as noisy sensors or limited training data. Therefore, it is necessary to develop CBM strategies robust against distribution fluctuations. Focus applications have been in wind farms and deep space habitats.",
+            "image":"../img/reserch/windturbines.PNG"
+        },
+        {
+            "title": "Joint optimization of maintenance and spare provisioning",
+            "content": "The optimization of maintenance schedules and spare inventory for industrial components has been traditionally studied separately. Maintenance models assume that spare parts are always available in stock and so make decisions based solely on lifetime distributions. Spare inventory models, on the other hand, usually rely on time-series methodologies to predict the demand for spare parts without considering the impact on maintenance schedule. Nevertheless, optimizing these two problems in isolation or in a sequential fashion can lead to sub-optimal solutions due to the tight coupling between spare inventory and maintenance decisions. This research line seeks to formulate new joint optimization problems to coordinate condition-based maintenance and spares provisioning while using insights from degradation data. Focus applications have been in wind farms and deep space habitats.",
+            "image":"../img/reserch/joint.PNG"
+        },
+        {
+            "title": "Machine learning for fault diagnostic and failure prognostic",
+            "content": "This research line focuses on the use of Machine Learning (ML) techniques for fault diagnostic and failure prognostic purposes, specifically in the domain of batteries and intermittent faults.  We aim to develop advanced ML algorithms that can effectively analyze battery data to detect early signs of degradation, identify faults, and accurately predict the remaining useful life of batteries. Additionally, we will focus on addressing the challenges posed by intermittent faults, which are often difficult to detect and diagnose. By leveraging ML techniques, we aim to capture subtle patterns and variations in intermittent fault data to enhance fault detection and diagnosis accuracy.",
+            "image":"../img/reserch/prognostic.PNG"}
+    ]
+}
