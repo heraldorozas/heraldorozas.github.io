@@ -13,6 +13,6 @@
         {
             "title": "Machine learning for fault diagnostic and failure prognostic",
             "content": "This research line focuses on the use of Machine Learning (ML) techniques for fault diagnostic and failure prognostic purposes, specifically in the domain of batteries and intermittent faults.  We aim to develop advanced ML algorithms that can effectively analyze battery data to detect early signs of degradation, identify faults, and accurately predict the remaining useful life of batteries. Additionally, we will focus on addressing the challenges posed by intermittent faults, which are often difficult to detect and diagnose. By leveraging ML techniques, we aim to capture subtle patterns and variations in intermittent fault data to enhance fault detection and diagnosis accuracy.",
-            "image":"../src/img/reserch/prognostic.PNG"}
+            "image":"./src/img/reserch/prognostic.PNG"}
     ]
 }
