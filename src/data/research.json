@@ -1,7 +1,7 @@
 {
     "areas": [
         {
-            "title": "Condition-based maintenance for wind turbines with inaccurate prognostic results",
+            "title": "Condition-based maintenance for wind turbines using inaccurate prognostic results",
             "content": "It is estimated that Operations and Maintenance (O&M) activities account for up to 30% of the running costs of wind farm operations. Condition-based maintenance (CBM) has received significant attention for its potential to reduce the operational costs of wind farms. CBM leverages condition monitoring data from sensors to optimize maintenance activities.  These strategies combine predictive analytics and optimization methods to adapt maintenance decisions according to the observed degradation of wind turbines. Existing CBM strategies for wind farms rely on the assumption that predictive analytics can accurately estimate the remaining lifetime distribution (RLD) of wind turbines, allowing for the direct implementation of stochastic programming or threshold-based policies. However, estimated RLDs can be inaccurate due to noisy sensors or limited training data.  In this line of work, I investigate how inaccurate estimated RLDs can be integrated into optimization models to coordinate the maintenance schedule of wind turbines.",
             "image":"./src/img/reserch/windturbines.PNG"
         },
