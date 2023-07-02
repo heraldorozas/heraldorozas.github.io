@@ -77,6 +77,21 @@
       },
       "year": "2020"
     },
+    
+    {
+      "title": "An Integrated Detection-Prognostics Methodology for Components with Intermittent Faults",
+      "citation_id": "CBgfQEUAAAAJ:eQOLeE2rZwMC",
+      "authors": "M Ibrahim, H Rozas, N Gebraeel",
+      "publication": "IEEE Transactions on Reliability, 2023 (Status: Under Review )",
+      "journal": "1",
+      "cited_by": {
+        "value": 17,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12784846990191903107",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12784846990191903107&engine=google_scholar&hl=en",
+        "cites_id": "12784846990191903107"
+      },
+      "year": "2023"
+    },
     {
       "title": "A method for the reduction of the computational cost associated with the implementation of particle-filter-based failure prognostic algorithms",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:eQOLeE2rZwMC",
@@ -91,21 +106,6 @@
         "cites_id": "12784846990191903107"
       },
       "year": "2020"
-    },
-    {
-      "title": "Guidelines for the characterization of the internal impedance of lithium-ion batteries in PHM algorithms",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:2osOgNQ5qMEC",
-      "citation_id": "CBgfQEUAAAAJ:2osOgNQ5qMEC",
-      "authors": "A Pérez, M Benavides, H Rozas, S Seria, M Orchard",
-      "publication": "International Journal of Prognostics and Health Management 9 (3), 2018",
-      "journal": "1",
-      "cited_by": {
-        "value": 11,
-        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=789916266320847846",
-        "serpapi_link": "https://serpapi.com/search.json?cites=789916266320847846&engine=google_scholar&hl=en",
-        "cites_id": "789916266320847846"
-      },
-      "year": "2018"
     },
     {
       "title": "Lithium-ion battery pack arrays for lifespan enhancement",
