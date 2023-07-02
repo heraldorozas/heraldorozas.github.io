@@ -1,8 +1,8 @@
 {
     "areas": [
         {
-            "title": "Condition-based maintenance with inaccurate prediction results",
-            "content": "Operations and Maintenance (O&M) expenses account for a significant portion of the operating costs in industries that utilize industrial components. Condition-based maintenance (CBM) strategies, incorporating predictive analytics into maintenance optimization, have shown effectiveness in reducing O&M costs associated with industrial component management. Existing CBM strategies for industrial components often rely on the assumption that predictive algorithms accurately predict the remaining lifetime distribution (RLD), allowing for the direct implementation of stochastic programming or simulation-based optimization methods. However, estimated RLDs can be inaccurate due to factors such as noisy sensors or limited training data. Therefore, it is necessary to develop CBM strategies robust against distribution fluctuations. Focus applications have been in wind farms and deep space habitats.",
+            "title": "Condition-based maintenance for wind turbines with inaccurate prognostic results",
+            "content": "It is estimated that Operations and Maintenance (O&M) activities account for up to 30% of the running costs of wind farm operations. Condition-based maintenance (CBM) has received significant attention for its potential to reduce the operational costs of wind farms. CBM leverages condition monitoring data from sensors to optimize maintenance activities.  These strategies combine predictive analytics and optimization methods to adapt maintenance decisions according to the observed degradation of wind turbines. Existing CBM strategies for wind farms rely on the assumption that predictive analytics can accurately estimate the remaining lifetime distribution (RLD) of wind turbines, allowing for the direct implementation of stochastic programming or threshold-based policies. However, estimated RLDs can be inaccurate due to noisy sensors or limited training data.  In this line of work, I investigate how inaccurate estimated RLDs can be integrated into optimization models to coordinate the maintenance schedule of wind turbines.",
             "image":"./src/img/reserch/windturbines.PNG"
         },
         {
@@ -11,7 +11,7 @@
             "image":"./src/img/reserch/joint.PNG"
         },
         {
-            "title": "Machine learning for fault diagnostic and failure prognostic",
+            "title": "Machine learning for fault diagnostic and failure prognostic in electrical equipment",
             "content": "This research line focuses on the use of Machine Learning (ML) techniques for fault diagnostic and failure prognostic purposes, specifically in the domain of batteries and intermittent faults.  We aim to develop advanced ML algorithms that can effectively analyze battery data to detect early signs of degradation, identify faults, and accurately predict the remaining useful life of batteries. Additionally, we will focus on addressing the challenges posed by intermittent faults, which are often difficult to detect and diagnose. By leveraging ML techniques, we aim to capture subtle patterns and variations in intermittent fault data to enhance fault detection and diagnosis accuracy.",
             "image":"./src/img/reserch/prognostic.PNG"}
     ]
