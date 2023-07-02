@@ -92,6 +92,50 @@
       },
       "year": "2023"
     },
+        {
+      "title": "Data-driven Joint Optimization of Maintenance and Spare Inventory: A Distributionally Robust Chance Constrained Program",
+      "citation_id": "CBgfQEUAAAAJ:eQOLeE2rZwMC",
+      "authors": "H Rozas, W Xie, N Gebraeel",
+      "publication": "MSOM Informs, 2023 (Status: Under Review )",
+      "journal": "1",
+      "cited_by": {
+        "value": 17,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12784846990191903107",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12784846990191903107&engine=google_scholar&hl=en",
+        "cites_id": "12784846990191903107"
+      },
+      "year": "2023"
+    }
+    ,
+      {
+      "title": "Condition-based Maintenance for Wind Farms using a Distributionally Robust Chance Constrained Program",
+      "citation_id": "CBgfQEUAAAAJ:eQOLeE2rZwMC",
+      "authors": "H Rozas, W Xie, N Gebraeel",
+      "publication": "IEEE Transactions on Power Systems, 2023 (Status: Under Review )",
+      "journal": "1",
+      "cited_by": {
+        "value": 17,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12784846990191903107",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12784846990191903107&engine=google_scholar&hl=en",
+        "cites_id": "12784846990191903107"
+      },
+      "year": "2023"
+    },
+      {
+      "title": "Data-driven Joint Optimization of Maintenance and Spare Parts Provisioning for Deep Space Habitats",
+      "citation_id": "CBgfQEUAAAAJ:eQOLeE2rZwMC",
+      "authors": "H Rozas, B Basciftci, N Gebraeel",
+      "publication": "Acta Astronautica, 2023 (Status: Under Review )",
+      "journal": "1",
+      "cited_by": {
+        "value": 17,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12784846990191903107",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12784846990191903107&engine=google_scholar&hl=en",
+        "cites_id": "12784846990191903107"
+      },
+      "year": "2023"
+    }
+    ,
     {
       "title": "A method for the reduction of the computational cost associated with the implementation of particle-filter-based failure prognostic algorithms",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=CBgfQEUAAAAJ&citation_for_view=CBgfQEUAAAAJ:eQOLeE2rZwMC",
